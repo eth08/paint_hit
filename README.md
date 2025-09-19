@@ -23,7 +23,7 @@ To set up the application, you'll first need to install the required Python pack
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    git clone [https://github.com/eth08/paint_hit.git](https://github.com/eth08/paint_hit.git)
+    git clone https://github.com/eth08/paint_hit.git
     cd paint_hit
     ```
 
